@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: e75df5cd9c1f944ce99e585d983fa119
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195246
+  packageName: Warped Shooting Fx
+  packageVersion: 1.0
+  assetPath: Assets/Warped Shooting Fx/Music/warped-shooting-fx.wav
+  uploadId: 433039
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 1
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 1
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
